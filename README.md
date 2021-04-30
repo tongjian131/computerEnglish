@@ -30,7 +30,7 @@
 <p>I'm tongjian.</p >
 
 ### 图片
-![img](https://img0.baidu.com/it/u=1077986538,4019369374&fm=26&fmt=auto&gp=0.jpg)
+![img](https://t7.baidu.com/it/u=4162611394,4275913936&fm=193&f=GIF)
 
 ```python
 def bubble_sort_flag(list):
