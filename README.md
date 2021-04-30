@@ -1,5 +1,5 @@
 # computerEnglish
-[jump](https://github.com/luojie21180128/luojie/blob/main/next.md)
+[link](https://github.com/tongjian131/computerEnglish/new/main)
 # jump
 ## head
 ### head
