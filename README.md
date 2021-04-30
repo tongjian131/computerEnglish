@@ -1,6 +1,6 @@
 # computerEnglish
 [link](https://github.com/tongjian131/computerEnglish/new/main)
-# jump
+# head
 ## head
 ### head
 *I'm* tongjian.
@@ -55,8 +55,8 @@ print("hello world!");
 return 0;}
 
 ```
-| 表头 | 表头 | 表头 |
-| :-----| ----: | :----: |
+|  左对齐  |  右对齐  |  居中对齐  |
+| :-----  | ----:    | :----:    |
 | 单元格 | 单元格 | 单元格 |
 | 单元格 | 单元格 | 单元格 |
 
