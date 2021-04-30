@@ -1,5 +1,5 @@
 # computerEnglish
-[link](https://github.com/tongjian131/computerEnglish/new/main)
+[link to next.md](https://github.com/tongjian131/computerEnglish/blob/main/next.md)
 # head
 ## head
 ### head
