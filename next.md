@@ -1,2 +1,2 @@
 # 链接
-[link](https://github.com/tongjian131/computerEnglish)
+[link to ](https://github.com/tongjian131/computerEnglish/blob/main/README.md)
